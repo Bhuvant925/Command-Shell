@@ -1,4 +1,4 @@
-# Command-Shell
+# Shell Implentation In C
 # Please read the ReadMe completely before using it and use it at your own risk.
 # STEP 1: First download the c file and then compile it in your Ubuntu Terminal or any Linux OS  
 # STEP 2: Then Run it , that's it now your custom command shell starts working.
