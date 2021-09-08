@@ -28,4 +28,4 @@
 # To redirect STDOUT for the commands using ‘>’ symbol. 
 # simultaneous use of multiple commands and output redirection doesn't work.
 
-# If in case any on entering 'exit' if your shell doesn't exit please clear the screen usign 'clear' then execute 'exit' again and even if the shell doesn't exit then only one way is remaining that is quiting the shell use 'ctrl + \' .
+# If in case any on entering 'exit' if your shell doesn't exit please clear the screen usign 'clear' then execute 'exit' again and even if the shell doesn't exit then only one way is remaining that is quiting the shell use 'ctrl + \\' .
